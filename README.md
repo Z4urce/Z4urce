@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Z4urce
 - 👀 I’m interested in game development / microcontrollers
-- 🌱 I’m currently learning RF
+- 🌱 I’m currently learning project management
 <!---
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
